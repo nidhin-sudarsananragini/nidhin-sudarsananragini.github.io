@@ -117,7 +117,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-#--------------------------------------
+
+#-------------------------------------
+
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
@@ -130,6 +132,5 @@ defaults:
       path: ""
     values:
       css: "/assets/css/main.css"
-
 
 
