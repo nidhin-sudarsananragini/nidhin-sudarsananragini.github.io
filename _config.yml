@@ -118,19 +118,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-#-------------------------------------
-
-remote_theme: mmistakes/minimal-mistakes
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/assets/css/main.css"
-
+  
 
