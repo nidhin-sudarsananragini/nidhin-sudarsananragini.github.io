@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Nidhin Sudarsanan Ragini"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Theoretical physicist dabbling with quantum information theory."
+  bio    : "Quantum information theorist and physicist."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

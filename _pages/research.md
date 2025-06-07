@@ -1,5 +1,14 @@
+---
 title: "Research"
-layout: research
 permalink: /research/
+#layout: research
+---
+## Research themes
 
-sdsdsd
+### Distinguishability of quantum devices
+
+### Higher-order quantum theory
+
+## Ongoing projects
+
+## Collaborators

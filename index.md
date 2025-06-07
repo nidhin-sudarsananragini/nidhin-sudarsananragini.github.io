@@ -6,5 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I hold a Ph.D. in Theoretical Physics and Mathematical Physics. 
-- Reaserch areas: Quantum information theory
+I am a young quantum information theorist and physicist who had my doctoral training from Slovak Academy of Sciences.
