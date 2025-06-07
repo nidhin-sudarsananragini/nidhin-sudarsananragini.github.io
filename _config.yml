@@ -117,5 +117,22 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+#--------------------------------------
 
+sass:
+  style: compressed
+
+# Add this section:
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/main.css"
 
