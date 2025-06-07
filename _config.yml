@@ -121,6 +121,7 @@ tag_archive:
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
 
 defaults:
@@ -129,5 +130,6 @@ defaults:
       path: ""
     values:
       css: "/assets/css/main.css"
+
 
 
