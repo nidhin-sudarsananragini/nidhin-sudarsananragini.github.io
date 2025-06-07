@@ -2,6 +2,13 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
+
+@font-face {
+  font-family: 'AtkinsonHyperlegible';
+  src: url('/assets/fonts/atkinson.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   font-family: 'AtkinsonHyperlegible', serif;
   font-size: 18px;
