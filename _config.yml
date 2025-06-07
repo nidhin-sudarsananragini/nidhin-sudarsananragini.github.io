@@ -118,22 +118,16 @@ tag_archive:
   type: liquid
   path: /tags/
 #--------------------------------------
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
-sass:
-  style: compressed
+plugins:
+  - jekyll-include-cache
 
-# Add this section:
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
   -
     scope:
       path: ""
     values:
       css: "/assets/css/main.css"
+
 
